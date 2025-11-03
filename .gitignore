@@ -1,0 +1,14 @@
+# 忽略 SSH 私钥
+ssh_keys/id_mcit5830
+
+# 忽略你的课程私钥文件
+secret_key.txt
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略 Codio 自动生成的文件
+.codio
+.settings
+.guides/
